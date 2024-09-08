@@ -1,6 +1,6 @@
 # Jolie Ng
 
-![](IMG_3354.jpg)
+![Path to my image](IMG_3354.jpg)
 
 -   **Hometown**: Hong Kong
 -   **Hobbies**: singing (musical theater!!!), running, skiing, watching wootball
